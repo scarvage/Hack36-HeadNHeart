@@ -8,9 +8,15 @@ MEMBERS:
              3.Vivek Kumar - https://github.com/Vivek7282
              4.Mihir Ojha - https://github.com/scarvage
 
-INTRO OF THE PROJECT: A mental health application 
+Overview: A mental health application to connect clients with health care professionals 
 
-Proposed Features :
-
+Proposed Features:
+Query ChatBot
+Video Chat
+Forum
+Authentication 
 
 TECH STACK:
+Blockchain
+React
+NodeJS
