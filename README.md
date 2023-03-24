@@ -16,7 +16,7 @@ Video Chat
 Forum
 Authentication 
 
-TECH STACK:
+Tech Stack:
 Blockchain
 React
 NodeJS
