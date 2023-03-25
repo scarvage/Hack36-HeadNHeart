@@ -1,0 +1,64 @@
+<%- include('partials/header-auth') %>
+
+<d class="container" >
+  <div class="jumbotron centered" style="text-align: center;">
+    
+    <h1 class="display-3">ABCD Hospital</h1>
+    <p class="secret-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam hic nesciunt fuga, magni libero perferendis nemo quia repellat velit ea sint. Rem tenetur odio praesentium, amet itaque excepturi pariatur delectus.
+    </p>
+    </div>
+    <form action="/secrets/prescription" method="POST">
+      <!-- 2 column grid layout with text inputs for the first and last names -->
+      <div class="row mb-4">
+        <div class="col">
+          <div class="form-outline">
+            <input type="text" id="form6Example1" class="form-control" name="fName"/>
+            <label class="form-label" for="form6Example1">First name</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="form-outline">
+            <input type="text" id="form6Example2" class="form-control" name="lName"/>
+            <label class="form-label" for="form6Example2">Last name</label>
+          </div>
+        </div>
+      </div>
+    
+      <!-- Text input -->
+      <div class="form-outline mb-4">
+        <input type="text" id="form6Example3" class="form-control" name="gender"/>
+        <label class="form-label" for="form6Example3">Gender</label>
+      </div>
+    
+      <!-- Text input -->
+      <div class="form-outline mb-4">
+        <input type="text" id="form6Example4" class="form-control" name="address"/>
+        <label class="form-label" for="form6Example4">Address</label>
+      </div>
+    
+
+    
+      <!-- Number input -->
+      <div class="form-outline mb-4">
+        <input type="number" id="form6Example6" class="form-control" name="num"/>
+        <label class="form-label" for="form6Example6">Phone</label>
+      </div>
+    
+      <!-- Message input -->
+      <div class="form-outline mb-4">
+        <input type="text" id="form6Example4" class="form-control" name="progress"/>
+        <label class="form-label" for="form6Example4">Progress</label>
+      </div>
+      <div class="form-outline mb-4">
+        <textarea class="form-control" id="form6Example7" rows="4" name="prescription"></textarea>
+        <label class="form-label" for="form6Example7">Prescription</label>
+      </div>
+      <!-- Submit button -->
+      <button type="submit" class="btn btn-primary btn-block mb-4">Submit Prescription</button>
+    </form>
+
+
+
+  
+</div>
+<%- include('partials/footer-auth') %>
