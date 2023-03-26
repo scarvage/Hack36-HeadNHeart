@@ -5,7 +5,7 @@
 This web3 based project aims to develop a digital platform for managing doctor-patient appointments and interactions. The platform will be designed to improve the overall efficiency and quality of mental health services, by streamlining the appointment scheduling process and enhancing communication between doctors and patients.
   
 ## Demo Video Link:
-  <a href=""></a>
+  <a href="https://youtu.be/P9auRuXpuKs">Demo</a>
   
 ## Presentation Link:
   <a href="shorturl.at/qruSY"> shorturl.at/qruSY </a>
