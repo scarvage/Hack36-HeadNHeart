@@ -1,23 +1,13 @@
-# Hack36-HeadNHeart
+# Sample Hardhat Project
 
-Team Name : 201 United 
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-```MEMBERS:
-             1.Prakhar Mishra - https://github.com/lancelot-zen
-             2.Piyush Patel - https://github.com/monkepi18
-             3.Vivek Kumar - https://github.com/Vivek7282
-             4.Mihir Ojha - https://github.com/scarvage
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
 ```
-Overview: A mental health application to connect clients with health care professionals and form support groups for people struggling with mental issues.
-
-Proposed Features:
-Query ChatBot
-Video Chat
-Peer to Peer Chat
-Forum
-Metamask Authentication 
-
-Tech Stack:
-Blockchain
-React
-NodeJS
