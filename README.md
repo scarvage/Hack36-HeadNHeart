@@ -28,8 +28,7 @@ This web3 based project aims to develop a digital platform for managing doctor-p
   4) Open AI, Alchemy API 
   5) Infura
   6) Metamask & Ethereum
-  7) Twilio video and chat API
-  8) Socket.io
+  7) Socket.io
   
 
 ## Contributors:
