@@ -18,15 +18,16 @@ This web3 based project aims to develop a digital platform for managing doctor-p
   3)Ethereum based payment
   4)IPFS storage
   5)Chat section 
+  6)NFT based incentive for physical exercises 
   ```
 
 ## Technology Stack:
   1) React, HTML, CSS, JS, Solidity
-  2) Node, Express, Ejs
+  2) Node, Vite, Express, Ejs
   3) MongoDB
   4) Open AI, Alchemy API 
-  5) Vite
-  6) Metamask & ethereum
+  5) Infura
+  6) Metamask & Ethereum
   7) Twilio video and chat API
   8) Socket.io
   
