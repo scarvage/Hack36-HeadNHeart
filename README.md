@@ -43,3 +43,5 @@ Team Name: 201 United
 
 ### Made at:
 <a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+
+Various branches consists of various components of the web app*
