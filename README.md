@@ -12,12 +12,13 @@ This web3 based project aims to develop a digital platform for managing doctor-p
   
   
 ## Features:
+```
   1)Video session
   2)Query Chat bot
   3)Ethereum based payment
   4)IPFS storage
   5)Chat section 
-  
+  ```
 
 ## Technology Stack:
   1) React, HTML, CSS, JS, Solidity
